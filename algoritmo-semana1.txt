@@ -1,0 +1,10 @@
+Pregunta 5 — Actividad práctica de algoritmia
+   Algoritmo: Cómo compartir información confiable en internet
+
+   1. Buscar la información que quiero compartir
+   2. Revisar la fuente: verificar si viene de un sitio oficial, periódico reconocido o experto en el tema
+   3. Confirmar la noticia en al menos 2 fuentes diferentes e independientes
+   4. Verificar la fecha de publicación para asegurarme que la información sea actual
+   5. Leer el contenido completo, no solo el titular, para entender el contexto
+   6. Revisar si el autor es real y confiable
+   7. Compartir solo si pasó todos los filtros anteriores, citando siempre la fuente original
